@@ -21,7 +21,7 @@ Viewport Keeper continuously enables Dear ImGui multi-viewport support in Dalamu
 3. Add the following custom plugin repository URL:
 
    ```text
-   https://raw.githubusercontent.com/chefiffer/ViewPortKeeper/main/repo.json
+   https://raw.githubusercontent.com/chefiffer/dalamud-plugins/main/repo.json
    ```
 
 4. Open the Plugin Installer, search for **Viewport Keeper**, and select **Install**.

@@ -21,7 +21,7 @@ Viewport Keeper 用于持续启用 Dalamud 的 Dear ImGui 多视口支持，使�
 3. 添加下面的自定义插件仓库地址：
 
    ```text
-   https://raw.githubusercontent.com/chefiffer/ViewPortKeeper/main/repo.json
+   https://raw.githubusercontent.com/chefiffer/dalamud-plugins/main/repo.json
    ```
 
 4. 打开插件安装器，搜索 **Viewport Keeper**，然后选择 **安装**。
