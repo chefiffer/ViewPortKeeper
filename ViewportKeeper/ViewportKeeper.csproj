@@ -1,0 +1,11 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.1</Version>
+    <Author>Viewport Keeper Contributors</Author>
+    <Name>Viewport Keeper</Name>
+    <Punchline>Keep Dalamud multi-viewport support enabled.</Punchline>
+    <Description>Restores ImGui multi-viewport support immediately before every frame, allowing plugin windows to move outside the FFXIV client window.</Description>
+    <Tags>viewport;window;multimonitor;utility</Tags>
+    <PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Viewport Keeper Contributors",
+    "Name": "Viewport Keeper",
+    "InternalName": "ViewportKeeper",
+    "AssemblyVersion": "0.0.1.0",
+    "TestingAssemblyVersion": null,
+    "Description": "Keeps Dalamud multi-viewport support enabled so compatible plugin windows can move outside the game client.",
+    "Punchline": "Keep compatible plugin windows available across viewports.",
+    "RepoUrl": "https://github.com/chefiffer/ViewPortKeeper",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "viewport",
+      "window",
+      "multimonitor",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794504741,
+    "DownloadLinkInstall": "https://github.com/chefiffer/ViewPortKeeper/releases/download/v0.0.1/ViewportKeeper-0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/chefiffer/ViewPortKeeper/releases/download/v0.0.1/ViewportKeeper-0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/chefiffer/ViewPortKeeper/releases/download/v0.0.1/ViewportKeeper-0.0.1.zip"
+  }
+]
